@@ -1,10 +1,3 @@
 # PUBG-TOURNAMNET-PAGE
- PUBG tournament website wehere user can select there slot for match
- 
- 
- TO DO 
- :NEW UI FORMATION 
- :LOGIN DATA BASE CONNECTION
- :PANNALS FORMATION
- :USER OTP GENRATER API 
- :PUBG ROOM ID SELECTER 
+  PUBG tournament website wehere user can select there slot for match
+
